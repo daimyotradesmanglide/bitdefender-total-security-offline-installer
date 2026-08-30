@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-<img width="2880" height="1620" alt="Bitdefender Total Security interface" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kaspersky_Total_Security_screenshot.png/1280px-Kaspersky_Total_Security_screenshot.png" />
+<img width="2880" height="1620" alt="Bitdefender Total Security interface" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Adobe_After_Effects_screenshot.png/1280px-Adobe_After_Effects_screenshot.png" />
 </div>
 
 ---
